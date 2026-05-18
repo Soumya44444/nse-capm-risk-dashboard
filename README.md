@@ -66,3 +66,11 @@ nse-capm-risk-dashboard/
 
 └── nse\_capm\_dashboard.py
 
+## Disclaimer
+
+This project is developed solely for educational and research purposes.
+
+The dashboard and analytics presented in this repository do not constitute financial advice, investment advice, trading advice, or buy/sell recommendations.
+
+Users should conduct their own research and consult qualified financial professionals before making any investment decisions.
+
