@@ -64,7 +64,7 @@ nse-capm-risk-dashboard/
 
 ├── requirements.txt
 
-└── nse\_capm\dashboard.py
+└── nse_capm_dashboard.py
 
 ## Disclaimer
 
